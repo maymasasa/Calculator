@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+table {
+    margin: 0px;
+}
+tr {
+    margin: 0px;
+}
+td {
+    margin: 0px;
+}
+#container {
+margin:0px;
+margin-left: 30%;
+margin-top: 5%;
+}
+
+.numBtn {
+    font-size: large;
+    border-radius: 2px;
+    border: 0px;
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+}
+.numBtn:hover {
+    background-color: darkgrey;
+}
+#display {
+    border-radius: 2px;
+margin-left: 2px;
+width: 412px;
+height:100px;
+background-color: darkgray;
+}
